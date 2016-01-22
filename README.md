@@ -30,4 +30,4 @@ Any one will be eligible to participate.
 ### Support or Contact
 Having trouble with getting start? Check out our sample bot at [Drawers](https://github.com/DrawersApp) 
 
-1. Drawers: [Website](http://wantdrawers.in)
+* Drawers: [Website](http://wantdrawers.in)
