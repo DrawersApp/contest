@@ -29,5 +29,4 @@ Any one will be eligible to participate.
 * Get a chance to intervew with the hostest startup
 
 ### Support or Contact
-Having trouble with getting start? Check out our sample bot at [Drawers](https://github.com/DrawersApp) 
-Drawers: [Website](http://wantdrawers.in)
+Having trouble with getting start? Check out our sample bot at [Drawers](https://github.com/DrawersApp) [Website](http://wantdrawers.in)
