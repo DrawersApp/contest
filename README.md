@@ -7,7 +7,7 @@ It is an open bot building event. Build an awesome chat bot which can prcess you
 ### Rules and Regulation
 
 1. Participants can register as a team of 1-3. Registration will end at 2:00 PM IST, 5th Feb'16.
-2. Send your team details before that to mailto:deploymentbotdrawers@gmail.com to receive key. Key will allow you to talk to the chat serves.
+2. Subscribe your team details to receive key. Key will allow you to talk to the chat serves.
 3. Contest will start on 8:00 PM IST, 5th Feb'16 and will ends on 8:00 PM IST, 7th Feb'16.
 4. Develop bot and submit the code before contest end. Code can be done in any language of choice and submission should include README.md with steps to run it and check it.
 5. List of qualified bots will be published on 8:00 PM IST, 8th Feb'16.
@@ -30,3 +30,11 @@ Any one will be eligible to participate.
 
 ### Support or Contact
 Having trouble with getting start? Check out our sample bot at [Drawers](https://github.com/DrawersApp) [Website](http://wantdrawers.in)
+
+<form action="//formspree.io/contact@heartcoins.org" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <textarea type="text" name="message"></textarea>
+  <input type="hidden" name="_next" value="//heartcoins.org/thanks.html" />
+  <input type="submit" value="Send">
+</form>
