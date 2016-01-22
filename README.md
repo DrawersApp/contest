@@ -18,7 +18,7 @@ It is an open bot building event. Build an awesome chat bot which can prcess you
 8. Judge's decision will be treated as final. No correspondence in this regard will be entertained.
 9. Any type of plagiarism during the contest will not be tolerated.
 
-### Prices
+### Prizes
 Any one will be eligible to participate.
 
 2. Prize money will be as follows:
@@ -26,8 +26,8 @@ Any one will be eligible to participate.
 * 2nd prize 7500 INR
 * 3rd prize 5000 INR
 * 10 consolation prize of flipkart vouchers worth 500 INR
+* Get a chance to intervew with the hostest startup
 
 ### Support or Contact
 Having trouble with getting start? Check out our sample bot at [Drawers](https://github.com/DrawersApp) 
-
-* Drawers: [Website](http://wantdrawers.in)
+Drawers: [Website](http://wantdrawers.in)
